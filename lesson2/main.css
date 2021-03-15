@@ -1,0 +1,13 @@
+.smile {
+    width: 500px;
+    height: 500px;
+    background: cornflowerblue;
+    /*overflow: auto;*/
+    /*padding: 50px 10px 20px 40px;*/
+    padding: 100px;
+    padding-left: 50px;
+    box-sizing: border-box;
+    margin: 100px;
+    margin-top: 200px;
+
+}

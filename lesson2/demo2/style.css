@@ -1,0 +1,11 @@
+.header > p {
+    background: silver;
+}
+
+.content > ul > li > p {
+    background: cornflowerblue;
+}
+
+p.target {
+    background: #000;
+}
