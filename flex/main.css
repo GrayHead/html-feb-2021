@@ -1,0 +1,56 @@
+.father {
+    width: 900px;
+    /*height: 800px;*/
+    background: silver;
+    margin: 0 auto;
+}
+
+.box {
+    width: 200px;
+    height: 300px;
+    box-sizing: border-box;
+    /*box-shadow: 10px 10px 20px tomato;*/
+    margin-left: 5.3333%;
+    margin-right: 5.3333%;
+    margin-bottom: 5%;
+}
+
+.red-one {
+    background: orangered;
+    color: gold;
+}
+
+.blue-one {
+    background: cornflowerblue;
+    color: darksalmon;
+
+}
+
+.green-one {
+    background: darkseagreen;
+    color: lightyellow;
+}
+
+
+.padding-x-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.flex {
+    display: flex;
+    justify-content: flex-start; /*x line*/
+    /*flex-direction: row;*/
+    /*align-items: flex-start; !*y line*!*/
+    flex-wrap: wrap;
+}
+
+
+.mini-box {
+    width: 10%; /*20px*/
+    height: 10%; /*30px*/
+    background: #000;
+    margin-left: 10%; /*20*/
+    margin-top: 10%; /*20*/
+}
+
